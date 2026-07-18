@@ -1,0 +1,24 @@
+{
+  "originHash" : "d966c8402e4c746977019e886c22af4a892bec31afe00e4263902398f00fda18",
+  "pins" : [
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "revision" : "ac632bd26a1c00f139ff62fd01806f21cf67325e",
+        "version" : "8.10.0"
+      }
+    },
+    {
+      "identity" : "ns-core-design-system",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/simplex-tech-apps/ns-core-design-system.git",
+      "state" : {
+        "revision" : "09b5c9ab1b25cd250fea1810e20ab56dc3f6e754",
+        "version" : "1.2.0"
+      }
+    }
+  ],
+  "version" : 3
+}
